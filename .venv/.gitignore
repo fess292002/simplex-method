@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycashe__/
+*.рус
+.idea/
+.env
+
+
